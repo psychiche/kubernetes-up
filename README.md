@@ -1,4 +1,4 @@
-# kubernetes_up
+# kubernetes-up
 k8s实践指南
 # 概念
 
